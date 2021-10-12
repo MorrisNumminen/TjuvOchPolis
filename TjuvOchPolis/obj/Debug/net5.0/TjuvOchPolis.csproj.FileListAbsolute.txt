@@ -1,0 +1,16 @@
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\TjuvOchPolis.csproj.AssemblyReference.cache
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\TjuvOchPolis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\TjuvOchPolis.AssemblyInfoInputs.cache
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\TjuvOchPolis.AssemblyInfo.cs
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\TjuvOchPolis.csproj.CoreCompileInputs.cache
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\bin\Debug\net5.0\TjuvOchPolis.exe
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\bin\Debug\net5.0\TjuvOchPolis.deps.json
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\bin\Debug\net5.0\TjuvOchPolis.runtimeconfig.json
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\bin\Debug\net5.0\TjuvOchPolis.runtimeconfig.dev.json
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\bin\Debug\net5.0\TjuvOchPolis.dll
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\bin\Debug\net5.0\ref\TjuvOchPolis.dll
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\bin\Debug\net5.0\TjuvOchPolis.pdb
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\TjuvOchPolis.dll
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\ref\TjuvOchPolis.dll
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\TjuvOchPolis.pdb
+C:\Users\Morris\source\repos\TjuvOchPolis\TjuvOchPolis\obj\Debug\net5.0\TjuvOchPolis.genruntimeconfig.cache
